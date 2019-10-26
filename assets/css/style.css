@@ -3,8 +3,8 @@
      margin:0 auto;
      font-family: Arial, Helvetica, sans-serif;
  }
- 
- h1 {
+  
+ .row h1 {
      color: #4aaaa5;
      font-family: Georgia, 'Times New Roman', Times, serif;
 
@@ -13,6 +13,15 @@
   li a:hover{
     background-color:#4aaaa5;
 
+}
+#Johan {
+  width: 100%;
+  float: left;
+  padding: 20px;
+}
+
+.navlist {
+  margin-left: 420px;
 }
 
 .col-md-8{
@@ -26,6 +35,7 @@
   background-color:#4aaaa5;
   color: white;
   font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-left: 320px;
 }
  footer {
     position: fixed;
@@ -39,15 +49,9 @@
     color: white;
  }
  
- 
- .contact h1 {
-  color: #4aaaa5;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-
- }
   
   input,textarea{
-    width: 680px;
+    width:100%;
     padding: 10px 10px;
     margin: 5px 5px;
   }
@@ -63,15 +67,17 @@
   .angular {
     width: 150px;
     height: 150px;
+    margin: 25px;
     position: relative;
     border: 2px solid black;
     background-image: url("../images/angular.png");
-    
+
     
   }
   .game {
     position: relative;
     width: 150px;
+    margin: 25px;
     height: 150px;
     border: 2px solid black;
     background-image: url("../images/game.png")
@@ -79,6 +85,7 @@
   .html_responsive {
     position: relative;
     width: 150px;
+    margin: 25px;
     height: 150px;
     border: 2px solid black;
     background-image: url("../images/responsive.jpeg")
@@ -87,6 +94,7 @@
   .blackjackgame {
     position: relative;
     width: 150px;
+    margin: 25px;
     height: 150px;
     border: 2px solid black;
     background-image: url("../images/blackjack.png")
@@ -94,6 +102,7 @@
   .javascript {
     position: relative;
     width: 150px;
+    margin: 25px;
     height: 150px;
     border: 2px solid black;
     background-image: url("../images/javascript.png")
