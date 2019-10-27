@@ -7,7 +7,7 @@ HTML 5 and CSS
 
 # Usage 
 
-Responsive Website Using Boostrap.
+Responsive Website Using Bootstrap.
 
 # Features
 * Responsive collapsing NAV bar with dropdown menu for mobile devices with javascript plugin
