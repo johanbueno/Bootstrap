@@ -9,7 +9,7 @@ HTML 5 and CSS
 
 Responsive Website Using Boostrap.
 
-# Feautures
+# Features
 * Responsive collapsing NAV bar with dropdown menu for mobile devices with javascript plugin
 * Containers using the 12 grid system
 * CSS Properties for better positioning.
