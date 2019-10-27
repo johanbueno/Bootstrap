@@ -28,9 +28,16 @@
   background-color: #ffffff;
   font-family: 'Times New Roman', Times, serif;
   margin-top: 60px;
+  width: 100%;
   
 }
+.portfolio{
+  background-color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 60px;
+  width: 100%;
 
+}
 #me {
   background-color:#4aaaa5;
   color: white;
@@ -65,8 +72,8 @@
   }
  
   .angular {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     margin: 25px;
     position: relative;
     border: 2px solid black;
@@ -76,34 +83,34 @@
   }
   .game {
     position: relative;
-    width: 150px;
+    width: 300px;
     margin: 25px;
-    height: 150px;
+    height: 300px;
     border: 2px solid black;
     background-image: url("../images/game.png")
   }
   .html_responsive {
     position: relative;
-    width: 150px;
+    width: 300px;
     margin: 25px;
-    height: 150px;
+    height: 300px;
     border: 2px solid black;
     background-image: url("../images/responsive.jpeg")
   }
   
   .blackjackgame {
     position: relative;
-    width: 150px;
+    width: 300px;
     margin: 25px;
-    height: 150px;
+    height: 300px;
     border: 2px solid black;
     background-image: url("../images/blackjack.png")
   }
   .javascript {
     position: relative;
-    width: 150px;
+    width: 300px;
     margin: 25px;
-    height: 150px;
+    height: 300px;
     border: 2px solid black;
     background-image: url("../images/javascript.png")
   }
@@ -112,10 +119,10 @@
    color: white;
    font-size: 20px;
    text-align: center;
-   width: 150px;
+   width: 298px;
    height: 30px;
    background-color: #4aaaa5;
-   bottom: -110px;
+   bottom: -250px;
 
   }
   #rightborder{
